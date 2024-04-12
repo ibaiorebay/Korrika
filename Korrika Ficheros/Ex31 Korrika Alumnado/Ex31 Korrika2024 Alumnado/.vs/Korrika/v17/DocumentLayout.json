@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Mi unidad\\Modulos\\1DamProgramacion\\Azterketak\\Ex31 Korrika2024 Alumnado\\",
+  "WorkspaceRootPath": "C:\\Users\\ibail\\Desktop\\DAM\\Programaci\u00F3n\\Repositorio Korrika\\Korrika Ficheros\\Ex31 Korrika Alumnado\\Ex31 Korrika2024 Alumnado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|g:\\mi unidad\\modulos\\1damprogramacion\\azterketak\\ex31 korrika2024 alumnado\\formskorrika\\frmdefinirkms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|c:\\users\\ibail\\desktop\\dam\\programaci\u00F3n\\repositorio korrika\\korrika ficheros\\ex31 korrika alumnado\\ex31 korrika2024 alumnado\\formskorrika\\frmdefinirkms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|solutionrelative:formskorrika\\frmdefinirkms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|g:\\mi unidad\\modulos\\1damprogramacion\\azterketak\\ex31 korrika2024 alumnado\\formskorrika\\frmfinanciacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|C:\\Users\\ibail\\Desktop\\DAM\\Programaci\u00F3n\\Repositorio Korrika\\Korrika Ficheros\\Ex31 Korrika Alumnado\\Ex31 Korrika2024 Alumnado\\formskorrika\\frmfinanciacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|solutionrelative:formskorrika\\frmfinanciacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|g:\\mi unidad\\modulos\\1damprogramacion\\azterketak\\ex31 korrika2024 alumnado\\formskorrika\\frmfinanciacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|C:\\Users\\ibail\\Desktop\\DAM\\Programaci\u00F3n\\Repositorio Korrika\\Korrika Ficheros\\Ex31 Korrika Alumnado\\Ex31 Korrika2024 Alumnado\\formskorrika\\frmfinanciacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{D356AD97-67E5-4040-BFD2-15943496CDB5}|FormsKorrika\\FormsKorrika.vbproj|solutionrelative:formskorrika\\frmfinanciacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmDefinirKms.vb [Dise\u00F1o]",
-              "DocumentMoniker": "G:\\Mi unidad\\Modulos\\1DamProgramacion\\Azterketak\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmDefinirKms.vb",
+              "DocumentMoniker": "C:\\Users\\ibail\\Desktop\\DAM\\Programaci\u00F3n\\Repositorio Korrika\\Korrika Ficheros\\Ex31 Korrika Alumnado\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmDefinirKms.vb",
               "RelativeDocumentMoniker": "FormsKorrika\\FrmDefinirKms.vb",
-              "ToolTip": "G:\\Mi unidad\\Modulos\\1DamProgramacion\\Azterketak\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmDefinirKms.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\ibail\\Desktop\\DAM\\Programaci\u00F3n\\Repositorio Korrika\\Korrika Ficheros\\Ex31 Korrika Alumnado\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmDefinirKms.vb [Dise\u00F1o]",
               "RelativeToolTip": "FormsKorrika\\FrmDefinirKms.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-26T16:31:59.329Z",
@@ -40,26 +40,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FrmFinanciacion.vb",
-              "DocumentMoniker": "G:\\Mi unidad\\Modulos\\1DamProgramacion\\Azterketak\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmFinanciacion.vb",
+              "DocumentMoniker": "C:\\Users\\ibail\\Desktop\\DAM\\Programaci\u00F3n\\Repositorio Korrika\\Korrika Ficheros\\Ex31 Korrika Alumnado\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmFinanciacion.vb",
               "RelativeDocumentMoniker": "FormsKorrika\\FrmFinanciacion.vb",
-              "ToolTip": "G:\\Mi unidad\\Modulos\\1DamProgramacion\\Azterketak\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmFinanciacion.vb",
+              "ToolTip": "C:\\Users\\ibail\\Desktop\\DAM\\Programaci\u00F3n\\Repositorio Korrika\\Korrika Ficheros\\Ex31 Korrika Alumnado\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmFinanciacion.vb",
               "RelativeToolTip": "FormsKorrika\\FrmFinanciacion.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-26T16:31:21.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T16:31:21.269Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmFinanciacion.vb [Dise\u00F1o]",
-              "DocumentMoniker": "G:\\Mi unidad\\Modulos\\1DamProgramacion\\Azterketak\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmFinanciacion.vb",
+              "DocumentMoniker": "C:\\Users\\ibail\\Desktop\\DAM\\Programaci\u00F3n\\Repositorio Korrika\\Korrika Ficheros\\Ex31 Korrika Alumnado\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmFinanciacion.vb",
               "RelativeDocumentMoniker": "FormsKorrika\\FrmFinanciacion.vb",
               "ToolTip": "G:\\Mi unidad\\Modulos\\1DamProgramacion\\Azterketak\\Ex31 Korrika2024 Alumnado\\FormsKorrika\\FrmFinanciacion.vb [Dise\u00F1o]",
-              "RelativeToolTip": "FormsKorrika\\FrmFinanciacion.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-26T16:31:18.609Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-03-26T16:31:18.609Z"
             }
           ]
         }

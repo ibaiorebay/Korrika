@@ -1,0 +1,56 @@
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\bin\Debug\Entidades.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\bin\Debug\Entidades.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\bin\Debug\Entidades.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.AssemblyReference.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.Resources.resources
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.GenerateResource.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CoreCompileInputs.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\obj\Debug\GestionK.38DB3738.Up2Date
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.pdb
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.dll
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.pdb
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.xml
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\Entidades.dll
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\Entidades.pdb
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\Entidades.xml
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.AssemblyReference.cache
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.Resources.resources
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.GenerateResource.cache
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CoreCompileInputs.cache
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.dll
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.xml
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.pdb
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CopyComplete
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.dll
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.pdb
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\GestionKorrika.xml
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\Entidades.dll
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\Entidades.pdb
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\bin\Debug\Entidades.xml
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.Resources.resources
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.GenerateResource.cache
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionK.38DB3738.Up2Date
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.dll
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.xml
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\GestionKorrika\obj\Debug\GestionKorrika.pdb
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.dll
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.pdb
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.xml
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.dll
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.pdb
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.xml
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.AssemblyReference.cache
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.Resources.resources
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.GenerateResource.cache
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CoreCompileInputs.cache
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CopyComplete
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.dll
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.xml
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.pdb

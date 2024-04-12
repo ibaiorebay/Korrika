@@ -54,7 +54,15 @@ Public Class FrmPrincipal
                 Exit Sub
             End If
         End If
-        korrika = New Korrika(txtNumKorrika.Text, txtAnyo.Text, txtEslogan.Text, txtFechaInicio.Text, txtFechaFin.Text, txtCantKms.Text)
+        Dim nuevaKorrika As DatosGeneralesKorrika
+        nuevaKorrika.NKorrika = txtNumKorrika.Text
+        nuevaKorrika.Anyo = txtAnyo.Text
+        nuevaKorrika.Eslogan = txtEslogan.Text
+        nuevaKorrika.FechaInicio = txtFechaInicio.Text
+        nuevaKorrika.FechaFin = txtFechaFin.Text
+        nuevaKorrika.CantKms = txtCantKms.Text
+        Dim msgError As String = ""
+        korrika = New Korrika(nuevaKorrika, msgError)
     End Sub
 
     Private Sub DefinirKmToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DefinirKmToolStripMenuItem.Click, FinanciarKmToolStripMenuItem.Click

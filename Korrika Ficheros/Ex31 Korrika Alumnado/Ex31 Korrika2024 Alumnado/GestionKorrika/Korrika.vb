@@ -25,12 +25,7 @@ Public Class Korrika
         If Not File.Exists($".\Ficheros\Korrika{num}.txt") Then Return $"No existe la Korrika {num}"
         Dim lineasFichero() As String = File.ReadAllLines($".\Ficheros\Korrika{num}.txt")
         Dim datosKorrika() As String = lineasFichero(0).Split("*")
-        DatosGenerales.NKorrika = datosKorrika(0)
-        DatosGenerales.Anyo = datosKorrika(1)
-        DatosGenerales.Eslogan = datosKorrika(2)
-        DatosGenerales.FechaInicio = datosKorrika(3)
-        DatosGenerales.FechaFin = datosKorrika(4)
-        DatosGenerales.CantKms = datosKorrika(5)
+        DatosGenerales = New DatosGeneralesKorrika(datosKorrika(0), datosKorrika(1), datosKorrika(2), datosKorrika(3), datosKorrika(4), datosKorrika(5))
         CrearKilometros(DatosGenerales.CantKms)
         Dim KmKorrika() As String
         For i = 1 To lineasFichero.Length - 1

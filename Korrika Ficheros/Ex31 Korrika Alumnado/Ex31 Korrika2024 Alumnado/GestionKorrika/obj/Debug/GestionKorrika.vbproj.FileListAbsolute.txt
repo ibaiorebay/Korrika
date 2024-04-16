@@ -68,6 +68,7 @@ C:\Users\javie\Source\Repos\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 
 C:\Users\javie\Source\Repos\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.dll
 C:\Users\javie\Source\Repos\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.xml
 C:\Users\javie\Source\Repos\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.pdb
+<<<<<<< HEAD
 C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.dll
 C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.pdb
 C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.xml
@@ -82,3 +83,19 @@ C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Fic
 C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.dll
 C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.xml
 C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.pdb
+=======
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.dll
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.xml
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.dll
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.xml
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.dll
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.xml
+C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.pdb
+>>>>>>> c23ae198077b9d4bf10d50cbb08a477ca8e8dabb

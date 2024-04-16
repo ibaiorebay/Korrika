@@ -94,11 +94,20 @@ Public Class FrmPrincipal
         korrika = New Korrika(txtNumKorrika.Text, msgerror)
         If msgerror IsNot "" Then
             MessageBox.Show(msgerror)
+        Else
+            txtAnyo.Text = korrika.DatosGenerales.Anyo
+            txtEslogan.Text = korrika.DatosGenerales.Eslogan
+            txtFechaInicio.Text = korrika.DatosGenerales.FechaInicio
+            txtFechaFin.Text = korrika.DatosGenerales.FechaFin
+            txtCantKms.Text = korrika.DatosGenerales.CantKms
         End If
-        txtAnyo.Text = korrika.DatosGenerales.Anyo
-        txtEslogan.Text = korrika.DatosGenerales.Eslogan
-        txtFechaInicio.Text = korrika.DatosGenerales.FechaInicio
-        txtFechaFin.Text = korrika.DatosGenerales.FechaFin
-        txtCantKms.Text = korrika.DatosGenerales.CantKms
+    End Sub
+
+    Private Sub ButtonGuardar_Click(sender As Object, e As EventArgs) Handles ButtonGuardar.Click
+        If korrika.Cambios = False Then
+            MessageBox.Show("No hay cambios que hacer")
+        Else
+            korrika.GrabarCambios()
+        End If
     End Sub
 End Class

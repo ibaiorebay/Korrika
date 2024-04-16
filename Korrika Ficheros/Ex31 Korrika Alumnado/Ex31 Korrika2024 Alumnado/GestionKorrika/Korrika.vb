@@ -2,6 +2,7 @@
 Imports Entidades
 
 Public Class Korrika
+    Public ReadOnly Property Cambios As Boolean
     Public Property DatosGenerales As DatosGeneralesKorrika
     Private Property _Provincias As New List(Of String) From {"araba", "gipuzkoa", "nafarroa", "bizkaia", "zuberoa", "nafarra behera", "lapurdi"}
     Public ReadOnly Property Provincias
@@ -56,7 +57,7 @@ Public Class Korrika
                 lineas(lineas.Length - 1) = $"{kmFin.NumKm}*{kmFin.Direccion}*{kmFin.Localidad}*{kmFin.Provincia}*{kmFin.Organizacion}*{kmFin.Euros}"
             End If
         Next
-        File.WriteAllLines(".\Personas.txt", lineas)
+        File.WriteAllLines($".\Ficheros\Korrika{DatosGenerales.NKorrika}.txt", lineas)
         Return ""
     End Function
     Private Sub TotalRecaudadoCalculo(euros As Decimal)

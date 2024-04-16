@@ -42,13 +42,14 @@ Partial Class FrmPrincipal
         Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripSeparator()
         Me.FinalizarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.btnKorrikaExistente = New System.Windows.Forms.Button()
+        Me.ButtonGuardar = New System.Windows.Forms.Button()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'btnCrearKorrika
         '
         Me.btnCrearKorrika.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnCrearKorrika.Location = New System.Drawing.Point(300, 437)
+        Me.btnCrearKorrika.Location = New System.Drawing.Point(443, 441)
         Me.btnCrearKorrika.Margin = New System.Windows.Forms.Padding(4)
         Me.btnCrearKorrika.Name = "btnCrearKorrika"
         Me.btnCrearKorrika.Size = New System.Drawing.Size(184, 49)
@@ -232,11 +233,23 @@ Partial Class FrmPrincipal
         Me.btnKorrikaExistente.Text = "Acceder a Korrika existente"
         Me.btnKorrikaExistente.UseVisualStyleBackColor = True
         '
+        'ButtonGuardar
+        '
+        Me.ButtonGuardar.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.ButtonGuardar.Location = New System.Drawing.Point(138, 441)
+        Me.ButtonGuardar.Margin = New System.Windows.Forms.Padding(4)
+        Me.ButtonGuardar.Name = "ButtonGuardar"
+        Me.ButtonGuardar.Size = New System.Drawing.Size(184, 49)
+        Me.ButtonGuardar.TabIndex = 15
+        Me.ButtonGuardar.Text = "Guardar Cambios"
+        Me.ButtonGuardar.UseVisualStyleBackColor = True
+        '
         'FrmPrincipal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(753, 554)
+        Me.Controls.Add(Me.ButtonGuardar)
         Me.Controls.Add(Me.btnKorrikaExistente)
         Me.Controls.Add(Me.txtNumKorrika)
         Me.Controls.Add(Me.Label6)
@@ -287,4 +300,5 @@ Partial Class FrmPrincipal
     Friend WithEvents ToolStripMenuItem1 As ToolStripSeparator
     Friend WithEvents FinalizarToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents btnKorrikaExistente As Button
+    Friend WithEvents ButtonGuardar As Button
 End Class

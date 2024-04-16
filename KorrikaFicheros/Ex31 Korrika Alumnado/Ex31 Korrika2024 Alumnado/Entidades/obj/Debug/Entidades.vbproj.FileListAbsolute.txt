@@ -1,0 +1,40 @@
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\bin\Debug\Entidades.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\bin\Debug\Entidades.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\bin\Debug\Entidades.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\obj\Debug\Entidades.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\obj\Debug\Entidades.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika2024\Entidades\obj\Debug\Entidades.pdb
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\bin\Debug\Entidades.dll
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\bin\Debug\Entidades.pdb
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\bin\Debug\Entidades.xml
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.Resources.resources
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.dll
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.xml
+G:\Mi unidad\Modulos\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.pdb
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\bin\Debug\Entidades.dll
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\bin\Debug\Entidades.pdb
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\bin\Debug\Entidades.xml
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.Resources.resources
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.dll
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.xml
+G:\.shortcut-targets-by-id\1xKcRZPYb3ZdJ3Kef9TpwVFCSZRKmtNSp\1DamProgramacion\Azterketak\Ex31 Korrika2024\Entidades\obj\Debug\Entidades.pdb
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\bin\Debug\Entidades.dll
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\bin\Debug\Entidades.xml
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.dll
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.xml
+C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.pdb

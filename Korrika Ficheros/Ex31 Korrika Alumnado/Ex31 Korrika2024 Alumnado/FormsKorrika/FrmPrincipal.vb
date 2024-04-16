@@ -85,4 +85,20 @@ Public Class FrmPrincipal
     Private Sub FinalizarToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FinalizarToolStripMenuItem.Click
         Close()
     End Sub
+
+    Private Sub btnKorrikaExistente_Click(sender As Object, e As EventArgs) Handles btnKorrikaExistente.Click
+        Dim msgerror As String = ""
+        If String.IsNullOrEmpty(txtNumKorrika.Text) Then
+            MessageBox.Show("Tienes que escribir un numero de korrika")
+        End If
+        korrika = New Korrika(txtNumKorrika.Text, msgerror)
+        If msgerror IsNot "" Then
+            MessageBox.Show(msgerror)
+        End If
+        txtAnyo.Text = korrika.DatosGenerales.Anyo
+        txtEslogan.Text = korrika.DatosGenerales.Eslogan
+        txtFechaInicio.Text = korrika.DatosGenerales.FechaInicio
+        txtFechaFin.Text = korrika.DatosGenerales.FechaFin
+        txtCantKms.Text = korrika.DatosGenerales.CantKms
+    End Sub
 End Class

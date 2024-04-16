@@ -65,7 +65,6 @@ Partial Class FrmPrincipal
         Me.txtCantKms.Name = "txtCantKms"
         Me.txtCantKms.Size = New System.Drawing.Size(56, 22)
         Me.txtCantKms.TabIndex = 1
-        Me.txtCantKms.Text = "20"
         Me.txtCantKms.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label1
@@ -87,7 +86,6 @@ Partial Class FrmPrincipal
         Me.txtAnyo.Name = "txtAnyo"
         Me.txtAnyo.Size = New System.Drawing.Size(56, 22)
         Me.txtAnyo.TabIndex = 3
-        Me.txtAnyo.Text = "2024"
         Me.txtAnyo.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label2
@@ -109,7 +107,6 @@ Partial Class FrmPrincipal
         Me.txtEslogan.Name = "txtEslogan"
         Me.txtEslogan.Size = New System.Drawing.Size(211, 22)
         Me.txtEslogan.TabIndex = 5
-        Me.txtEslogan.Text = "HARRO HERRI"
         '
         'Label3
         '
@@ -150,7 +147,6 @@ Partial Class FrmPrincipal
         Me.txtFechaInicio.Name = "txtFechaInicio"
         Me.txtFechaInicio.Size = New System.Drawing.Size(100, 22)
         Me.txtFechaInicio.TabIndex = 9
-        Me.txtFechaInicio.Text = "14/03/2024"
         '
         'txtFechaFin
         '
@@ -161,7 +157,6 @@ Partial Class FrmPrincipal
         Me.txtFechaFin.Name = "txtFechaFin"
         Me.txtFechaFin.Size = New System.Drawing.Size(100, 22)
         Me.txtFechaFin.TabIndex = 10
-        Me.txtFechaFin.Text = "25/03/2024"
         '
         'txtNumKorrika
         '
@@ -172,7 +167,6 @@ Partial Class FrmPrincipal
         Me.txtNumKorrika.Name = "txtNumKorrika"
         Me.txtNumKorrika.Size = New System.Drawing.Size(56, 22)
         Me.txtNumKorrika.TabIndex = 12
-        Me.txtNumKorrika.Text = "23"
         Me.txtNumKorrika.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label6

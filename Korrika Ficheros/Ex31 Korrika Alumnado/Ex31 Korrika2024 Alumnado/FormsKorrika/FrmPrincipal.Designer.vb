@@ -41,6 +41,7 @@ Partial Class FrmPrincipal
         Me.FinanciarKmToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripSeparator()
         Me.FinalizarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.btnKorrikaExistente = New System.Windows.Forms.Button()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -62,7 +63,7 @@ Partial Class FrmPrincipal
         Me.txtCantKms.Location = New System.Drawing.Point(378, 350)
         Me.txtCantKms.Margin = New System.Windows.Forms.Padding(4)
         Me.txtCantKms.Name = "txtCantKms"
-        Me.txtCantKms.Size = New System.Drawing.Size(56, 26)
+        Me.txtCantKms.Size = New System.Drawing.Size(56, 22)
         Me.txtCantKms.TabIndex = 1
         Me.txtCantKms.Text = "20"
         Me.txtCantKms.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
@@ -73,7 +74,7 @@ Partial Class FrmPrincipal
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(158, 118)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(41, 20)
+        Me.Label1.Size = New System.Drawing.Size(34, 16)
         Me.Label1.TabIndex = 2
         Me.Label1.Text = "Año"
         '
@@ -84,7 +85,7 @@ Partial Class FrmPrincipal
         Me.txtAnyo.Location = New System.Drawing.Point(363, 114)
         Me.txtAnyo.Margin = New System.Windows.Forms.Padding(4)
         Me.txtAnyo.Name = "txtAnyo"
-        Me.txtAnyo.Size = New System.Drawing.Size(56, 26)
+        Me.txtAnyo.Size = New System.Drawing.Size(56, 22)
         Me.txtAnyo.TabIndex = 3
         Me.txtAnyo.Text = "2024"
         Me.txtAnyo.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
@@ -95,7 +96,7 @@ Partial Class FrmPrincipal
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(158, 172)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(76, 20)
+        Me.Label2.Size = New System.Drawing.Size(64, 16)
         Me.Label2.TabIndex = 4
         Me.Label2.Text = "Eslogan"
         '
@@ -106,7 +107,7 @@ Partial Class FrmPrincipal
         Me.txtEslogan.Location = New System.Drawing.Point(363, 172)
         Me.txtEslogan.Margin = New System.Windows.Forms.Padding(4)
         Me.txtEslogan.Name = "txtEslogan"
-        Me.txtEslogan.Size = New System.Drawing.Size(211, 26)
+        Me.txtEslogan.Size = New System.Drawing.Size(211, 22)
         Me.txtEslogan.TabIndex = 5
         Me.txtEslogan.Text = "HARRO HERRI"
         '
@@ -116,7 +117,7 @@ Partial Class FrmPrincipal
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(158, 238)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(111, 20)
+        Me.Label3.Size = New System.Drawing.Size(91, 16)
         Me.Label3.TabIndex = 6
         Me.Label3.Text = "Fecha inicio"
         '
@@ -126,7 +127,7 @@ Partial Class FrmPrincipal
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(158, 295)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(87, 20)
+        Me.Label4.Size = New System.Drawing.Size(70, 16)
         Me.Label4.TabIndex = 7
         Me.Label4.Text = "Fecha fin"
         '
@@ -136,7 +137,7 @@ Partial Class FrmPrincipal
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.Location = New System.Drawing.Point(158, 354)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(149, 20)
+        Me.Label5.Size = New System.Drawing.Size(123, 16)
         Me.Label5.TabIndex = 8
         Me.Label5.Text = "Cantidad de kms"
         '
@@ -147,7 +148,7 @@ Partial Class FrmPrincipal
         Me.txtFechaInicio.Location = New System.Drawing.Point(363, 234)
         Me.txtFechaInicio.Margin = New System.Windows.Forms.Padding(4)
         Me.txtFechaInicio.Name = "txtFechaInicio"
-        Me.txtFechaInicio.Size = New System.Drawing.Size(100, 26)
+        Me.txtFechaInicio.Size = New System.Drawing.Size(100, 22)
         Me.txtFechaInicio.TabIndex = 9
         Me.txtFechaInicio.Text = "14/03/2024"
         '
@@ -158,7 +159,7 @@ Partial Class FrmPrincipal
         Me.txtFechaFin.Location = New System.Drawing.Point(363, 289)
         Me.txtFechaFin.Margin = New System.Windows.Forms.Padding(4)
         Me.txtFechaFin.Name = "txtFechaFin"
-        Me.txtFechaFin.Size = New System.Drawing.Size(100, 26)
+        Me.txtFechaFin.Size = New System.Drawing.Size(100, 22)
         Me.txtFechaFin.TabIndex = 10
         Me.txtFechaFin.Text = "25/03/2024"
         '
@@ -169,7 +170,7 @@ Partial Class FrmPrincipal
         Me.txtNumKorrika.Location = New System.Drawing.Point(363, 64)
         Me.txtNumKorrika.Margin = New System.Windows.Forms.Padding(4)
         Me.txtNumKorrika.Name = "txtNumKorrika"
-        Me.txtNumKorrika.Size = New System.Drawing.Size(56, 26)
+        Me.txtNumKorrika.Size = New System.Drawing.Size(56, 22)
         Me.txtNumKorrika.TabIndex = 12
         Me.txtNumKorrika.Text = "23"
         Me.txtNumKorrika.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
@@ -180,7 +181,7 @@ Partial Class FrmPrincipal
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label6.Location = New System.Drawing.Point(158, 66)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(118, 20)
+        Me.Label6.Size = New System.Drawing.Size(98, 16)
         Me.Label6.TabIndex = 11
         Me.Label6.Text = "Nº de korrika"
         '
@@ -191,7 +192,7 @@ Partial Class FrmPrincipal
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ArchivoToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(753, 28)
+        Me.MenuStrip1.Size = New System.Drawing.Size(753, 24)
         Me.MenuStrip1.TabIndex = 13
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -199,40 +200,50 @@ Partial Class FrmPrincipal
         '
         Me.ArchivoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DefinirKmToolStripMenuItem, Me.FinanciarKmToolStripMenuItem, Me.ToolStripMenuItem1, Me.FinalizarToolStripMenuItem})
         Me.ArchivoToolStripMenuItem.Name = "ArchivoToolStripMenuItem"
-        Me.ArchivoToolStripMenuItem.Size = New System.Drawing.Size(86, 24)
+        Me.ArchivoToolStripMenuItem.Size = New System.Drawing.Size(71, 20)
         Me.ArchivoToolStripMenuItem.Text = "&Archivo"
         '
         'DefinirKmToolStripMenuItem
         '
         Me.DefinirKmToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.DefinirKmToolStripMenuItem.Name = "DefinirKmToolStripMenuItem"
-        Me.DefinirKmToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.DefinirKmToolStripMenuItem.Size = New System.Drawing.Size(163, 22)
         Me.DefinirKmToolStripMenuItem.Text = "Definir km"
         '
         'FinanciarKmToolStripMenuItem
         '
         Me.FinanciarKmToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.FinanciarKmToolStripMenuItem.Name = "FinanciarKmToolStripMenuItem"
-        Me.FinanciarKmToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.FinanciarKmToolStripMenuItem.Size = New System.Drawing.Size(163, 22)
         Me.FinanciarKmToolStripMenuItem.Text = "Financiar Km"
         '
         'ToolStripMenuItem1
         '
         Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
-        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(200, 6)
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(160, 6)
         '
         'FinalizarToolStripMenuItem
         '
         Me.FinalizarToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.FinalizarToolStripMenuItem.Name = "FinalizarToolStripMenuItem"
-        Me.FinalizarToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
+        Me.FinalizarToolStripMenuItem.Size = New System.Drawing.Size(163, 22)
         Me.FinalizarToolStripMenuItem.Text = "Finalizar"
+        '
+        'btnKorrikaExistente
+        '
+        Me.btnKorrikaExistente.Location = New System.Drawing.Point(460, 63)
+        Me.btnKorrikaExistente.Name = "btnKorrikaExistente"
+        Me.btnKorrikaExistente.Size = New System.Drawing.Size(236, 23)
+        Me.btnKorrikaExistente.TabIndex = 14
+        Me.btnKorrikaExistente.Text = "Acceder a Korrika existente"
+        Me.btnKorrikaExistente.UseVisualStyleBackColor = True
         '
         'FrmPrincipal
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 20.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(753, 554)
+        Me.Controls.Add(Me.btnKorrikaExistente)
         Me.Controls.Add(Me.txtNumKorrika)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.txtFechaFin)
@@ -281,4 +292,5 @@ Partial Class FrmPrincipal
     Friend WithEvents FinanciarKmToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ToolStripMenuItem1 As ToolStripSeparator
     Friend WithEvents FinalizarToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents btnKorrikaExistente As Button
 End Class

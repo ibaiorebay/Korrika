@@ -68,3 +68,17 @@ C:\Users\javie\Source\Repos\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 
 C:\Users\javie\Source\Repos\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.dll
 C:\Users\javie\Source\Repos\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.xml
 C:\Users\javie\Source\Repos\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.pdb
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.dll
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.pdb
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\GestionKorrika.xml
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.dll
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.pdb
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\bin\Debug\Entidades.xml
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.AssemblyReference.cache
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.Resources.resources
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.GenerateResource.cache
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.vbproj.CoreCompileInputs.cache
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionK.38DB3738.Up2Date
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.dll
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.xml
+C:\Users\ibail\Desktop\DAM\Programación\Repositorio Korrika\Korrika\Korrika Ficheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\GestionKorrika\obj\Debug\GestionKorrika.pdb

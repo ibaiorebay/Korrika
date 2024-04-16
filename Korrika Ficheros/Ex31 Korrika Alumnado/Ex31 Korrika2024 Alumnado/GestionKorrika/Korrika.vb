@@ -2,7 +2,7 @@
 Imports Entidades
 
 Public Class Korrika
-    Public ReadOnly Property Cambios As Boolean
+    Public ReadOnly Property Cambios As Boolean = False
     Public Property DatosGenerales As DatosGeneralesKorrika
     Private Property _Provincias As New List(Of String) From {"araba", "gipuzkoa", "nafarroa", "bizkaia", "zuberoa", "nafarra behera", "lapurdi"}
     Public ReadOnly Property Provincias
@@ -70,6 +70,7 @@ Public Class Korrika
         If File.Exists($".\Ficheros\Korrika{datosGeneralesKorrika.NKorrika}.txt") Then msgError = $"Ya existe la Korrika {datosGeneralesKorrika.NKorrika}"
         DatosGenerales = datosGeneralesKorrika
         CrearKilometros(DatosGenerales.CantKms)
+        _Cambios = True
     End Sub
     Public Sub New(num As Integer, ByRef msgError As String)
         msgError = LeerKorrika(num)
@@ -113,6 +114,7 @@ Public Class Korrika
             End If
         Next
         _Kilometros(posKm) = kilometro
+        _Cambios = True
         Return ""
     End Function
 
@@ -144,6 +146,7 @@ Public Class Korrika
         Next
         _Kilometros(posKm) = New KilometroFinanciado(_Kilometros(posKm), organizacion, euros)
         TotalRecaudadoCalculo(euros)
+        _Cambios = True
         If organizacionYaEstaba Then
             Return $"La organización {organizacion} financia el kilómetro {numKm}, aunque ya había financiado otros {kmFinanciadosOrg} kilómetros"
         End If

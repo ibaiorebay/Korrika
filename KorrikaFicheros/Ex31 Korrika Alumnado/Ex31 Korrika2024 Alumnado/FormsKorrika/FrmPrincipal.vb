@@ -54,13 +54,7 @@ Public Class FrmPrincipal
                 Exit Sub
             End If
         End If
-        Dim nuevaKorrika As DatosGeneralesKorrika
-        nuevaKorrika.NKorrika = txtNumKorrika.Text
-        nuevaKorrika.Anyo = txtAnyo.Text
-        nuevaKorrika.Eslogan = txtEslogan.Text
-        nuevaKorrika.FechaInicio = txtFechaInicio.Text
-        nuevaKorrika.FechaFin = txtFechaFin.Text
-        nuevaKorrika.CantKms = txtCantKms.Text
+        Dim nuevaKorrika As New DatosGeneralesKorrika(txtNumKorrika.Text, txtAnyo.Text, txtEslogan.Text, txtFechaInicio.Text, txtFechaFin.Text, txtCantKms.Text)
         Dim msgError As String = ""
         korrika = New Korrika(nuevaKorrika, msgError)
     End Sub
@@ -90,6 +84,7 @@ Public Class FrmPrincipal
         Dim msgerror As String = ""
         If String.IsNullOrEmpty(txtNumKorrika.Text) Then
             MessageBox.Show("Tienes que escribir un numero de korrika")
+            Exit Sub
         End If
         korrika = New Korrika(txtNumKorrika.Text, msgerror)
         If msgerror IsNot "" Then

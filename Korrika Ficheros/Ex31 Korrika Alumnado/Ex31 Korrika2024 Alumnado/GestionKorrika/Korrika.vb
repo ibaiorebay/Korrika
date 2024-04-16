@@ -1,4 +1,5 @@
-﻿Imports Entidades
+﻿Imports System.IO
+Imports Entidades
 
 Public Class Korrika
     Public Property DatosGenerales As DatosGeneralesKorrika
@@ -20,16 +21,37 @@ Public Class Korrika
             Return _TotalRecaudado
         End Get
     End Property
-
+    Private Function LeerKorrika(num As Integer) As String
+        If Not File.Exists($".\Ficheros\Korrika{num}.txt") Then Return $"No existe la Korrika {num}"
+        Dim lineasFichero() As String = File.ReadAllLines($".\Ficheros\Korrika{num}.txt")
+        Dim datosKorrika() As String = lineasFichero(0).Split("*")
+        DatosGenerales = New DatosGeneralesKorrika(datosKorrika(0), datosKorrika(1), datosKorrika(2), datosKorrika(3), datosKorrika(4), datosKorrika(5))
+        CrearKilometros(DatosGenerales.CantKms)
+        Dim KmKorrika() As String
+        For i = 1 To lineasFichero.Length - 1
+            KmKorrika = lineasFichero(i).Split("*")
+            If KmKorrika.Length > 4 Then
+                DefinirKm(KmKorrika(0), KmKorrika(1), KmKorrika(2), KmKorrika(3))
+                PatrocinarKilometro(KmKorrika(0), KmKorrika(4), KmKorrika(5))
+            ElseIf KmKorrika.Length > 1 Then
+                DefinirKm(KmKorrika(0), KmKorrika(1), KmKorrika(2), KmKorrika(3))
+            End If
+        Next
+        Return ""
+    End Function
     Private Sub TotalRecaudadoCalculo(euros As Decimal)
         _TotalRecaudado += euros
     End Sub
-    Public Sub New(nKorrika As Byte, anyo As Integer, eslogan As String, fechaInicio As Date, fechaFin As Date, cantKms As Integer)
-        Me.New(New DatosGeneralesKorrika(nKorrika, anyo, eslogan, fechaInicio, fechaFin, cantKms))
-    End Sub
-    Public Sub New(datosGeneralesKorrika As DatosGeneralesKorrika)
+    'Public Sub New(nKorrika As Byte, anyo As Integer, eslogan As String, fechaInicio As Date, fechaFin As Date, cantKms As Integer)
+    '    Me.New(New DatosGeneralesKorrika(nKorrika, anyo, eslogan, fechaInicio, fechaFin, cantKms))
+    'End Sub
+    Public Sub New(datosGeneralesKorrika As DatosGeneralesKorrika, ByRef msgError As String)
+        If File.Exists($".\Ficheros\Korrika{datosGeneralesKorrika.NKorrika}.txt") Then msgError = $"Ya existe la Korrika {datosGeneralesKorrika.NKorrika}"
         DatosGenerales = datosGeneralesKorrika
         CrearKilometros(DatosGenerales.CantKms)
+    End Sub
+    Public Sub New(num As Integer, ByRef msgError As String)
+        msgError = LeerKorrika(num)
     End Sub
     Private Sub CrearKilometros(cantKm)
         For i = 1 To cantKm

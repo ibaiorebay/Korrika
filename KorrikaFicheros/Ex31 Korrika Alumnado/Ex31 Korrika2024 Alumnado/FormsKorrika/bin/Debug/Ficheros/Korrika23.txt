@@ -1,11 +1,21 @@
 23*2024*HARRO HERRI*14/03/2024*25/03/2024*20
-1*C) Rikardo Arregi 35*Irún*Gipuzkoa
+1*C) Rikardo Arregi 35*Irún*Gipuzkoa*4v*250
 2*Mimendi 14*Irún*Gipuzkoa*Emakumeen asanblada*200
-3
+3***
 4*Ondarreta kalea 18*Donosti*Gipuzkoa*4v*250
-5
+5***
 6*Avda San Jorge 2*Pamplona/Iruñea*Nafarroa
 7*Rotxa 45*Pamplona/Iruñea*Nafarroa
 8*Kale Nagusia 4*Burlada*Nafarroa
 9*Avda Gipuzkoa 4*Bilbo*Bizkaia*4v*250
 10*Kale Nagusia 1*Bayona*Bizkaia
+11***
+12***
+13***
+14***
+15***
+16***
+17***
+18***
+19***
+20***

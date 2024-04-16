@@ -38,6 +38,7 @@ Public Class Korrika
                 DefinirKm(KmKorrika(0), KmKorrika(1), KmKorrika(2), KmKorrika(3))
             End If
         Next
+        _Cambios = False
         Return ""
     End Function
     Public Function GrabarCambios() As String

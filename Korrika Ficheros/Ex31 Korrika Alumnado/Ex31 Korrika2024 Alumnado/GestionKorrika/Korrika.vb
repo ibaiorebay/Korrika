@@ -39,6 +39,26 @@ Public Class Korrika
         Next
         Return ""
     End Function
+    Public Function GrabarCambios() As String
+        Dim lineas() As String = {}
+        Array.Resize(lineas, lineas.Length + 1)
+        lineas(lineas.Length - 1) = $"{DatosGenerales.NKorrika}*{DatosGenerales.Anyo}*{DatosGenerales.Eslogan}*{DatosGenerales.FechaInicio.ToShortDateString}*{DatosGenerales.FechaFin.ToShortDateString}*{DatosGenerales.CantKms}"
+        For Each km As Kilometro In Kilometros
+            Array.Resize(lineas, lineas.Length + 1)
+            If TypeOf km IsNot KilometroFinanciado Then
+                If km.Direccion Is Nothing Then
+                    lineas(lineas.Length - 1) = $"{km.NumKm}"
+                Else
+                    lineas(lineas.Length - 1) = $"{km.NumKm}*{km.Direccion}*{km.Localidad}*{km.Provincia}"
+                End If
+            Else
+                Dim kmFin As KilometroFinanciado = TryCast(km, KilometroFinanciado)
+                lineas(lineas.Length - 1) = $"{kmFin.NumKm}*{kmFin.Direccion}*{kmFin.Localidad}*{kmFin.Provincia}*{kmFin.Organizacion}*{kmFin.Euros}"
+            End If
+        Next
+        File.WriteAllLines(".\Personas.txt", lineas)
+        Return ""
+    End Function
     Private Sub TotalRecaudadoCalculo(euros As Decimal)
         _TotalRecaudado += euros
     End Sub

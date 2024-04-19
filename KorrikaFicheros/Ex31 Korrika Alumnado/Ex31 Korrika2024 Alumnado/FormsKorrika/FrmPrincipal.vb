@@ -97,12 +97,19 @@ Public Class FrmPrincipal
             txtCantKms.Text = korrika.DatosGenerales.CantKms
         End If
     End Sub
-
-    Private Sub ButtonGuardar_Click(sender As Object, e As EventArgs) Handles ButtonGuardar.Click
-        If korrika.Cambios = False Then
-            MessageBox.Show("No hay cambios que hacer")
-        Else
-            korrika.GrabarCambios()
+    Private Sub FrmPrincipal_Closing(sender As Object, e As FormClosingEventArgs) Handles MyBase.Closing
+        Dim dialog As New DialogResult
+        If korrika Is Nothing Then
+            Exit Sub
+        End If
+        If korrika.Cambios = True Then
+            dialog = MessageBox.Show($"Hay cambios en los KM, quieres guardarlos?", "Atencion", MessageBoxButtons.YesNoCancel)
+            Select Case dialog
+                Case DialogResult.Yes
+                    korrika.GrabarCambios()
+                Case DialogResult.Cancel
+                    e.Cancel = True
+            End Select
         End If
     End Sub
 End Class

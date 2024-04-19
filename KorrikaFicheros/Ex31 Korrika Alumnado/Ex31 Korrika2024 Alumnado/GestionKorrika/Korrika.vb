@@ -43,7 +43,7 @@ Public Class Korrika
     End Function
     Public Function GrabarCambios() As String
         Dim lineas() As String = {}
-        Array.Resize(lineas, lineas.Length + 1)
+        Array.Resize(lineas, 1)
         lineas(lineas.Length - 1) = $"{DatosGenerales.NKorrika}*{DatosGenerales.Anyo}*{DatosGenerales.Eslogan}*{DatosGenerales.FechaInicio.ToShortDateString}*{DatosGenerales.FechaFin.ToShortDateString}*{DatosGenerales.CantKms}"
         For Each km As Kilometro In Kilometros
             Array.Resize(lineas, lineas.Length + 1)
@@ -64,19 +64,17 @@ Public Class Korrika
     Private Sub TotalRecaudadoCalculo(euros As Decimal)
         _TotalRecaudado += euros
     End Sub
-    'Public Sub New(nKorrika As Byte, anyo As Integer, eslogan As String, fechaInicio As Date, fechaFin As Date, cantKms As Integer)
-    '    Me.New(New DatosGeneralesKorrika(nKorrika, anyo, eslogan, fechaInicio, fechaFin, cantKms))
-    'End Sub
     Public Sub New(datosGeneralesKorrika As DatosGeneralesKorrika, ByRef msgError As String)
         If File.Exists($".\Ficheros\Korrika{datosGeneralesKorrika.NKorrika}.txt") Then msgError = $"Ya existe la Korrika {datosGeneralesKorrika.NKorrika}"
         DatosGenerales = datosGeneralesKorrika
         CrearKilometros(DatosGenerales.CantKms)
-        _Cambios = True
+        GrabarCambios()
     End Sub
-    Public Sub New(num As Integer, ByRef msgError As String)
-        msgError = LeerKorrika(num)
+    Public Sub New(numKorrika As Integer, ByRef msgError As String)
+        msgError = LeerKorrika(numKorrika)
     End Sub
-    Private Sub CrearKilometros(cantKm)
+    Private Sub CrearKilometros(cantKm As Integer)
+        _Kilometros.Clear()
         For i = 1 To cantKm
             _Kilometros.Add(New Kilometro(i))
         Next

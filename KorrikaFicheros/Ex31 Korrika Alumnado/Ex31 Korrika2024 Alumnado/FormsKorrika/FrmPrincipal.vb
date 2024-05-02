@@ -54,9 +54,9 @@ Public Class FrmPrincipal
                 Exit Sub
             End If
         End If
-        Dim nuevaKorrika As New DatosGeneralesKorrika(txtNumKorrika.Text, txtAnyo.Text, txtEslogan.Text, txtFechaInicio.Text, txtFechaFin.Text, txtCantKms.Text)
+        Dim nuevaKorrika As New DatosGeneralesKorrika(txtNumKorrika.Text, txtAnyo.Text, txtEslogan.Text, txtFechaInicio.Text, txtFechaFin.Text, txtCantKms.Text) ' todo Los parámetros deberían ser las variables ya que son ellos quienes tienen el tipo que corresponde
         Dim msgError As String = ""
-        korrika = New Korrika(nuevaKorrika, msgError)
+        korrika = New Korrika(nuevaKorrika, msgError) ' todo ¿Nunca hace nada con msgError?
     End Sub
 
     Private Sub DefinirKmToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DefinirKmToolStripMenuItem.Click, FinanciarKmToolStripMenuItem.Click
@@ -82,10 +82,11 @@ Public Class FrmPrincipal
 
     Private Sub btnKorrikaExistente_Click(sender As Object, e As EventArgs) Handles btnKorrikaExistente.Click
         Dim msgerror As String = ""
-        If String.IsNullOrEmpty(txtNumKorrika.Text) Then
+        If String.IsNullOrEmpty(txtNumKorrika.Text) Then ' todo Lo importante es que sea número entero 
             MessageBox.Show("Tienes que escribir un numero de korrika")
             Exit Sub
         End If
+        ' todo Había que controlar que no estemos ya con otra korrika
         korrika = New Korrika(txtNumKorrika.Text, msgerror)
         If msgerror IsNot "" Then
             MessageBox.Show(msgerror)

@@ -101,3 +101,24 @@ C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\KorrikaFicheros\
 C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.exe
 C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.xml
 C:\Users\javie\OneDrive\Escritorio\DAM\Programacion\RepoKorrika\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\FormsKorrika.exe.config
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\FormsKorrika.exe
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\FormsKorrika.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\FormsKorrika.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\Entidades.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\GestionKorrika.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\Entidades.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\Entidades.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\GestionKorrika.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\bin\Debug\GestionKorrika.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.vbproj.AssemblyReference.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.FrmDefinirKms.resources
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.FrmFinanciacion.resources
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.FrmPrincipal.resources
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.Resources.resources
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.vbproj.GenerateResource.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.vbproj.CoreCompileInputs.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKor.D3EEAF7A.Up2Date
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.exe
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\FormsKorrika\obj\Debug\FormsKorrika.pdb

@@ -4,13 +4,13 @@ Imports Entidades
 Public Class Korrika
     Public ReadOnly Property Cambios As Boolean = False
     Public Property DatosGenerales As DatosGeneralesKorrika
-    Private Property _Provincias As New List(Of String) From {"araba", "gipuzkoa", "nafarroa", "bizkaia", "zuberoa", "nafarra behera", "lapurdi"}
-    Public ReadOnly Property Provincias
+    Private Property _Provincias As New List(Of String) From {"araba", "gipuzkoa", "nafarroa", "bizkaia", "zuberoa", "nafarra behera", "lapurdi"} 'todo Esto no es propiedad, es variable
+    Public ReadOnly Property Provincias ' todo Las propiedades deben tener tipo de retorno. Ver todas
         Get
             Return _Provincias.AsReadOnly
         End Get
     End Property
-    Private Property _Kilometros As New List(Of Kilometro)
+    Private Property _Kilometros As New List(Of Kilometro) 'todo Esto no puede ser propiedad
     Public ReadOnly Property Kilometros
         Get
             Return _Kilometros.AsReadOnly

@@ -38,3 +38,13 @@ C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidad
 C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.dll
 C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.xml
 C:\Users\asiel\Downloads\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\bin\Debug\Entidades.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\bin\Debug\Entidades.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.dll
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.xml
+C:\Users\María\Desktop\Lanean\Programacion\Korrika Ficheros Vers1\G5 IbaiJavier\KorrikaFicheros\Ex31 Korrika Alumnado\Ex31 Korrika2024 Alumnado\Entidades\obj\Debug\Entidades.pdb
